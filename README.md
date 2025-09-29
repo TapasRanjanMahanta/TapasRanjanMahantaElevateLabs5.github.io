@@ -9,4 +9,4 @@ Host a simple static website (HTML, CSS, JS) for **free** using **GitHub Pages**
 - **Git CLI** or **GitHub Desktop**  
 - Static website files (`index.html`, `style.css`, `script.js`)
   
-[My website Link](https://tapasranjanmahanta.github.io/)
+[My website Link](https://tapasranjanmahanta.github.io/TapasRanjanMahantaElevateLabs5.github.io/)
