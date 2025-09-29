@@ -4,7 +4,7 @@
 ## 📌 Objective
 Host a simple static website (HTML, CSS, JS) for **free** using **GitHub Pages**
 
-## 🛠 Tools Required
+## 🛠 Tools 
 - **GitHub Account** (free)  
 - **Git CLI** or **GitHub Desktop**  
 - Static website files (`index.html`, `style.css`, `script.js`)
